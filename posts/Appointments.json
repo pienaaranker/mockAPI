@@ -1,0 +1,11 @@
+{
+  "appointments": [
+    {
+      "title": "Dinner with Maggie",
+      "startDate": "06-05-2022'T'18:00Z",
+      "endDate": "06-05-2022'T'20:00Z",
+      "location": "Maggie's House",
+      "type": "event"
+    }
+    ]
+}
